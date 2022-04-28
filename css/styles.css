@@ -242,7 +242,7 @@ ul, ol {
     background: #2F303A;
     padding: 200px 0;
     text-align: center;
-    background-image: linear-gradient (rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/img_fon.jpg);
+    background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/img_fon.jpg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
@@ -255,8 +255,9 @@ ul, ol {
     text-transform: uppercase;
     color: #FFFFFF;
     max-width: 700px;
-    margin: 0 auto 30px auto ;    
+    margin: 0 auto 30px auto ; 
 }
+
 
 .title-btn {
     font-family: 'Roboto';
